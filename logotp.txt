@@ -8,10 +8,10 @@ Nama : Ahmad Dyroth
 Company : Paypal
 OTP : 123456
 
-Tanggal : 2024-11-15 02:55:55.354898+07:00
-Nama : Ahmad Dyroth
-Company : Paypal
-OTP : 32145
+Tanggal : 2025-02-15 02:55:55.354898+07:00
+Name : Ahmad Dyroth
+Bank: UMB Bank
+OTP : 347181
 
 Tanggal : 2024-11-15 03:01:28.749495+07:00
 Nama : Ahmad Dyroth
